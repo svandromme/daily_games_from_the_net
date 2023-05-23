@@ -47,6 +47,30 @@
       {
         "id": "Nerdle",
         "link": "https://nerdlegame.com/"
+      }, 
+      {
+        "id": "Flagle",
+        "link": "https://www.flagle.io/"
+      },
+      {
+        "id": "Angle",
+        "link": "https://angle.wtf/"
+      },
+      {
+        "id": "Framed",
+        "link": "https://framed.wtf/"
+      },
+      {
+        "id": "Cloudle",
+        "link": "https://cloudle.app/"
+      },
+      {
+        "id": "Colorfle",
+        "link": "https://colorfle.com/"
+      },
+      {
+        "id": "Wikihow",
+        "link": "https://damn.dog/"
       }
     ]
   }
