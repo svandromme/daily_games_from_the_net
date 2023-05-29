@@ -1,6 +1,7 @@
 {
   "name": "daily_games_from_the_net",
   "version": "0.1.0",
+  "homepage": "https://nom-dutilisateur-github.github.io/daily_games_from_the_net/",
   "private": true,
   "dependencies": {
     "@carbon/icons-react": "^11.19.0",
@@ -20,6 +21,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
