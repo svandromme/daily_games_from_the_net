@@ -89,6 +89,7 @@ function App() {
           kind="ghost"
           iconDescription="Delete Cookies"
           onClick={deleteCookie}
+          title="Delete cookie"
         >
           <Cookie />
         </Button>
