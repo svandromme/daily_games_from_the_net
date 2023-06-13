@@ -1,3 +1,7 @@
+# Access the page here :
+
+https://svandromme.github.io/daily_games_from_the_net/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
