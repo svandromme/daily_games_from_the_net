@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/daily_games_from_the_net/static/css/main.47d76b38.css",
-    "main.js": "/daily_games_from_the_net/static/js/main.23e67a8c.js",
+    "main.js": "/daily_games_from_the_net/static/js/main.08e33bcd.js",
     "static/media/IBMPlexSerif-SemiBoldItalic-Cyrillic.woff": "/daily_games_from_the_net/static/media/IBMPlexSerif-SemiBoldItalic-Cyrillic.d96e5a614e96c351c453.woff",
     "static/media/IBMPlexSerif-SemiBoldItalic-Latin1.woff": "/daily_games_from_the_net/static/media/IBMPlexSerif-SemiBoldItalic-Latin1.b691d8c0c5110ea3659e.woff",
     "static/media/IBMPlexSerif-Italic-Cyrillic.woff": "/daily_games_from_the_net/static/media/IBMPlexSerif-Italic-Cyrillic.452cc78a1baf50168631.woff",
@@ -184,10 +184,10 @@
     "static/media/IBMPlexMono-Regular-Latin3.woff2": "/daily_games_from_the_net/static/media/IBMPlexMono-Regular-Latin3.cacfd1d7dbd14067b970.woff2",
     "index.html": "/daily_games_from_the_net/index.html",
     "main.47d76b38.css.map": "/daily_games_from_the_net/static/css/main.47d76b38.css.map",
-    "main.23e67a8c.js.map": "/daily_games_from_the_net/static/js/main.23e67a8c.js.map"
+    "main.08e33bcd.js.map": "/daily_games_from_the_net/static/js/main.08e33bcd.js.map"
   },
   "entrypoints": [
     "static/css/main.47d76b38.css",
-    "static/js/main.23e67a8c.js"
+    "static/js/main.08e33bcd.js"
   ]
 }
